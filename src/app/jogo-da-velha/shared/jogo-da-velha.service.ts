@@ -114,6 +114,7 @@ export class JogoDaVelhaService {
 
   		return fim;
   	}
+  
   cpuJogar(): void {
   		let jogada: number[] = this.obterJogada(this.O);
 
