@@ -10,8 +10,8 @@ describe('JogoDaVelhaComponent', () => {
 
   beforeEach(async(() => {
     TestBed.configureTestingModule({
-      declarations: [ 
-        JogoDaVelhaComponent 
+      declarations: [
+        JogoDaVelhaComponent
       ],
       providers: [
         JogoDaVelhaService;
